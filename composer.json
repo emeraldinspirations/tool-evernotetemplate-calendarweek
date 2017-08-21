@@ -1,0 +1,19 @@
+{
+    "name": "emeraldinspirations/tool-evernotetemplate-calendarweek",
+    "description": "Generate a bulleted list of the days of the week for submission to evernote",
+    "type": "tool",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthew \"Juniper\" Barlett",
+            "email": "emeraldinspirations@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    }
+}

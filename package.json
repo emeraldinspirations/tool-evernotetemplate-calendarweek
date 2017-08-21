@@ -1,0 +1,23 @@
+{
+  "name": "tool-evernotetemplate-calendarweek",
+  "version": "1.0.0",
+  "description": "Generate a bulleted list of the days of the week for submission to evernote",
+  "main": "index.js",
+  "dependencies": {
+    "clipboard-js": "^0.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeraldinspirations/tool-evernotetemplate-calendarweek.git"
+  },
+  "author": "Matthew \"Juniper\" Barlett <emeraldinspirations@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emeraldinspirations/tool-evernotetemplate-calendarweek/issues"
+  },
+  "homepage": "https://github.com/emeraldinspirations/tool-evernotetemplate-calendarweek#readme"
+}
